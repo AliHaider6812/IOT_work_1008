@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "D:/PlatformIO"
+		},
+		{
+			"name": "Week_1",
+			"path": "Projects/Week_1"
+		},
+		{
+			"name": "Week_2_Debounce",
+			"path": "Projects/Week_2_Debounce"
+		},
+		{
+			"name": "Week_3_Display",
+			"path": "Projects/Week_3_Display"
+		},
+		{
+			"name": "Week_4_Timer",
+			"path": "Projects/Week_4_Timer"
+		},
+		{
+			"name": "Week_5_DHT",
+			"path": "Projects/Week_5_DHT"
+		}
+	],
+	"settings": {}
+}
