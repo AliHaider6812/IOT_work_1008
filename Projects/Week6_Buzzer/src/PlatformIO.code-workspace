@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Week6_PWM",
+			"path": "../../Week6_PWM"
+		},
+		{
+			"name": "Week6_Buzzer",
+			"path": ".."
+		},
+		{
+			"name": "Week7_LDR",
+			"path": "../../Week7_LDR"
+		}
+	],
+	"settings": {}
+}
